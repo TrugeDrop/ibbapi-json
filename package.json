@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "selenium-webdriver": "^4.7.1"
+  },
+  "name": "ibbapi-json",
+  "version": "1.0.0",
+  "description": "ibbapi json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "selenium",
+    "express"
+  ],
+  "author": "",
+  "license": "ISC"
+}
